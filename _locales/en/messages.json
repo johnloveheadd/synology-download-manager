@@ -1,0 +1,62 @@
+{
+  "extensionDescription": {
+    "message": "Add and manage Download Station tasks on your Synology DiskStation.",
+    "description": "A description of the extension."
+  },
+  "Download_finished": {
+    "message": "Download finished",
+    "description": "Notification body text."
+  },
+  "Download_with_DownloadStation": {
+    "message": "Download with DownloadStation",
+    "description": "Context menu item title."
+  },
+  "Selected_text_is_not_a_valid_URL": {
+    "message": "Selected text is not a valid URL",
+    "description": "Notification body text."
+  },
+  "Failed_to_add_download": {
+    "message": "Failed to add download",
+    "description": "Notification title."
+  },
+  "URL_is_empty_or_missing!": {
+    "message": "URL is empty or missing",
+    "description": "Notification body text."
+  },
+  "URL_to_download...": {
+    "message": "URL to download...",
+    "description": "Placeholder for advanced-add form."
+  },
+  "Download_to": {
+    "message": "Download to",
+    "description": "Lead-in for directory name in advanced-add form."
+  },
+  "default_location": {
+    "message": "default location",
+    "description": "Default value for directory name in advanced-add form."
+  },
+  "Dont_add_a_new_task": {
+    "message": "Don't add a new task",
+    "description": "Tooltip for advanced-add form's Cancel button."
+  },
+  "Cancel": {
+    "message": "Cancel",
+    "description": "Cancel button text."
+  },
+  "Download_the_above_URL_to_the_specified_location": {
+    "message": "Download the above URL to the specified location",
+    "description": "Tooltop for advanced-add form's Add button."
+  },
+  "Add": {
+    "message": "Add",
+    "description": "Add button text."
+  },
+  "Loading...": {
+    "message": "Loading...",
+    "description": "Generic loading text."
+  },
+  "Expandcollapse_directory": {
+    "message": "Expand/collapse directory",
+    "description": "Tooltip for expand/collapse button in directory tree view."
+  }
+}
